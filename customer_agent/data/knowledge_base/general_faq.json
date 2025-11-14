@@ -1,0 +1,16 @@
+[
+  {
+    "id": "gen-001",
+    "title": "Getting Started Guide",
+    "content": "Welcome! To get started, create an account on our platform and complete the onboarding tutorial. You can access all features through the web dashboard or mobile app.",
+    "tags": ["getting-started", "onboarding", "basics"],
+    "technical_level": 1
+  },
+  {
+    "id": "gen-002",
+    "title": "Account Management",
+    "content": "You can update your account settings, billing information, and preferences in the Account section. For security reasons, password changes require email verification.",
+    "tags": ["account", "settings", "billing"],
+    "technical_level": 1
+  }
+]

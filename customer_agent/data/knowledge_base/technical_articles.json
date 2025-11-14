@@ -1,0 +1,16 @@
+[
+  {
+    "id": "tech-001",
+    "title": "API Integration Guide",
+    "content": "To integrate our API, first authenticate using OAuth 2.0. The base endpoint is https://api.example.com/v1. Use the /auth endpoint to get your bearer token. For rate limiting, we allow 1000 requests per hour per API key.",
+    "tags": ["api", "integration", "authentication"],
+    "technical_level": 4
+  },
+  {
+    "id": "tech-002", 
+    "title": "Debugging Common SDK Issues",
+    "content": "Common SDK issues include timeout errors and authentication failures. Check your network configuration and ensure your API keys are properly configured. Enable debug logging for detailed error information.",
+    "tags": ["sdk", "debugging", "errors"],
+    "technical_level": 3
+  }
+]

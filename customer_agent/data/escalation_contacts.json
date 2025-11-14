@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Sarah Chen",
+    "role": "Senior Technical Specialist",
+    "expertise": ["api", "integration", "technical"],
+    "email": "sarah.chen@company.com",
+    "escalation_level": "tier_2"
+  },
+  {
+    "name": "Mike Rodriguez", 
+    "role": "Support Manager",
+    "expertise": ["business", "enterprise", "strategic"],
+    "email": "mike.rodriguez@company.com",
+    "escalation_level": "manager"
+  }
+]
